@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multi-scenaries/static/css/main.1021026d.css",
+    "main.js": "/multi-scenaries/static/js/main.b178dd76.js",
+    "index.html": "/multi-scenaries/index.html",
+    "main.1021026d.css.map": "/multi-scenaries/static/css/main.1021026d.css.map",
+    "main.b178dd76.js.map": "/multi-scenaries/static/js/main.b178dd76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1021026d.css",
+    "static/js/main.b178dd76.js"
+  ]
+}
